@@ -1,0 +1,5 @@
+D:\Pytorchexample\自定义数据集练习\标签在图片名字上在一起\data\0,00000000.png,0
+D:\Pytorchexample\自定义数据集练习\标签在图片名字上在一起\data\1,00000000.png,1
+D:\Pytorchexample\自定义数据集练习\标签在图片名字上在一起\data\2,00000000.jpg,2
+D:\Pytorchexample\自定义数据集练习\标签在图片名字上在一起\data\3,00000001.png,3
+D:\Pytorchexample\自定义数据集练习\标签在图片名字上在一起\data\4,00000001.jpg,4
